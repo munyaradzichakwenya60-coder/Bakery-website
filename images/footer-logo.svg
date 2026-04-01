@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#E8BFA1"/>
+      <stop offset="1" stop-color="#C85A3A"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="12" fill="#111" />
+  <g transform="translate(20,22)">
+    <path d="M40 8c-6 0-12 8-12 14s6 10 12 10 12-4 12-10-6-14-12-14z" fill="url(#g)"/>
+    <text x="0" y="78" font-family="Poppins, sans-serif" font-size="14" fill="#E8BFA1">Sweet Treats</text>
+  </g>
+</svg>
